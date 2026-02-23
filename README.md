@@ -1,6 +1,3 @@
-# Sorting_Algorithm_Experiment
-Bài tập thực nghiệm 4 thuật toán sắp xếp
-
 # Báo cáo thực nghiệm thuật toán sắp xếp
 
 Dự án này chứa mã nguồn và báo cáo cho bài tập thực nghiệm so sánh hiệu năng của các thuật toán sắp xếp trên bộ dữ liệu lớn.
