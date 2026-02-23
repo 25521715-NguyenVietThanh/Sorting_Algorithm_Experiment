@@ -5,7 +5,7 @@ Dự án này chứa mã nguồn và báo cáo cho bài tập thực nghiệm so
 ## 1. Thành phần dự án
 * `Sorting_experiment.py`: Mã nguồn thực hiện tạo dữ liệu, chạy thử nghiệm và đo thời gian.
 * `Sorting_Report.pdf`: Báo cáo chi tiết kết quả dưới dạng bảng, biểu đồ và nhận xét.
-* `Dataset.docx`: Thông tin về bộ dữ liệu được sử dụng.
+* `Dataset.pdf`: Thông tin về bộ dữ liệu được sử dụng.
 
 ## 2. Các thuật toán thử nghiệm
 * **QuickSort**: Thuật toán chia để trị, chọn chốt ở giữa.
