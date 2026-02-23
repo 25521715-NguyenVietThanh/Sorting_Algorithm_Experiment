@@ -1,7 +1,6 @@
 import numpy as np
 import time
 import sys
-
 sys.setrecursionlimit(2000000)
 
 def merge_sort(arr):
@@ -95,4 +94,5 @@ print("\nKET QUA THOI GIAN CHAY (ms):")
 print(f"{'Ten day du lieu':<25} | {'NumPy':<12} | {'Quick':<12} | {'Heap':<12} | {'Merge':<12}")
 print("-" * 80)
 for i in range(10):
+
     print(f"{labels[i]:<25} | {results['NumPy Sort'][i]:<12} | {results['QuickSort'][i]:<12} | {results['HeapSort'][i]:<12} | {results['MergeSort'][i]:<12}")
