@@ -21,4 +21,4 @@ Dự án này chứa mã nguồn và báo cáo cho bài tập thực nghiệm so
 
 ## 4. Cách chạy chương trình
 1. Cài đặt thư viện: `pip install numpy`
-2. Chạy lệnh: `python sorting_test.py`
+2. Chạy lệnh: `python Sorting_experiment.py`
